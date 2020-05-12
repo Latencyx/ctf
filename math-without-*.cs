@@ -2,7 +2,6 @@
         {
             long prod = (n << 4);
             prod = prod - n;
-
             return prod;
         }
 
